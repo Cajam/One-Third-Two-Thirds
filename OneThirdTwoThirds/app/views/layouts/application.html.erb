@@ -3,6 +3,7 @@
 <head>
   <title>One-Third, Two-Thirds</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <link rel="stylesheet" type="text/css" href="style.css" />
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
@@ -25,9 +26,9 @@
 <p class="notice"><%= notice %></p>
 
 
-<% if notice %>
+<!-- <#% if notice %>
   <p class="alert alert-success"><%= notice %></p>
-<% end %>
+<#% end %> -->
 
 
 <%= yield %>
