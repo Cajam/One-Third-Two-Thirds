@@ -1,0 +1,7 @@
+<h1>Editing Project Subtask for <%= @project.title %></h1>
+
+<%= render "form" %>
+
+<%= link_to "Delete", project_subtask_path(@project, @subtask), method: :delete, data: {confirm: "Are you sure you want to delete this?"} %>
+<br>
+<%= link_to 'Back', projects_path %>

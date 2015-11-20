@@ -1,0 +1,13 @@
+As a user, I should be able to create and set time limits for custom activities with a web-development focus.
+
+As a user, I should be able to save a set of time limits to standardize project time limitations for myself.
+
+As a user, I should be able to share my time limit sets with other developers.
+
+As a user, I should be able to record how long projects actually took me, compared to my timebox limit I set for myself.
+
+As a user, I should be able to receive alerts when my time limits are up. 
+
+As a user, I should be able to comment on why I was not able meet certain time limits for references to the future.
+
+As a user, I should have an interface that allows me to compare my time limits and how well I timeboxed in previous projects.

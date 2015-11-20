@@ -1,0 +1,28 @@
+<%= form_for  [@project,@subtask] do |f| %>
+  <p>
+    <%= f.label :subtask_title %><br>
+    <%= f.text_field :title %>
+  </p>
+
+  <p>
+    <%= f.label :subtask_description %><br>
+    <%= f.text_area :description %>
+  </p>
+
+  <p>
+    <%= f.label :subtask_hours_allotted %><br>
+    <%= f.text_field :subhours %>
+  </p>
+
+  <p>
+    <%= f.label :subtask_minutes_allotted %><br>
+    <%= f.text_field :subminutes %>
+  </p>
+
+  <%= f.hidden_field :author, value: current_user %>
+
+  <p>
+    <%= f.submit %>
+  </p>
+
+<% end %>

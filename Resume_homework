@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cassidy Harpster's Military Resume</title>
+</head>
+<body>
+    <h1>Cassidy J. Harpster</h1>
+        <h2>8607 Laverne Drive</h2>
+        <h2>Adelphi, MD 20783</h2>
+        <h2>Cell (850)-218-4673</h2>
+        <h2>Email: Cassidy.j.harpster@gmail.com</h2>
+    <h1>INTRODUCTION</h1>
+        <p>Decorated, enthusiastic leader with proven leadership experience from a combat deployment in Helmand province, Afghanistan, seeking to bring management skills and experience in handling a variety of kinetic situations to full-time employment.</p>
+    <div class="company">United States Army Reserves</div>
+      <div class="position">Platoon Leader</div>
+        <ul>
+          <li>Graded out in the top 1/3rd of academic class during Engineer Officer Basic Leader’s Course at Fort Leonard Wood, MO.</li>
+          <li>Led 30 combat engineers in training and counter-IED operations in southern Afghanistan with a unit-best 82% success rate.</li>
+          <li>Maintained 100% accountability of 12 vehicles and $49 million worth of equipment signed to my name.</li>
+          <li>Coordinated with intelligence specialists, to include both local company intelligence support teams as well as international officers, in order to create predictive maps and pattern analysis anticipating enemy movement and bomb emplacement, helping to build an overall picture of the battlefield for chain of command. </li>
+          <li>Planned and launched large-scale operations with British, Danish, and Afghan military forces. Adapted dissimilar doctrines to mesh and work together, resulting in the construction of strong working relationships between officers of several nations.</li>
+          <li>Innovated new tactics which resulted in increased speed and efficiency of bomb removal procedures by concurrently running multiple parts of previously standalone operations.</li>
+        </ul>
+      <div class="position">Executive Officer</div>
+        <ul>
+          <li>Created, reviewed, and presented monthly presentation products to senior leadership for tracking of training progress, medical readiness, and professional development for 95 Soldiers.</li>
+          <li>Coordinated logistics and movement operations with other Army units to schedule transportation of Soldiers and equipment to several military training sites across the United States, as well as reserving and managing ammunition, housing, food, and training ranges.</li>
+          <li>Entrusted with leading small, 10-20 man teams independently to training sites in advanced of the main body of a battalion in order to establish lodging and secure training equipment for over 600 Soldiers.</li>
+          <li>Mentored 2 new platoon leaders in counter-IED tactics in advance of a deployment to eastern Afghanistan.</li>
+        </ul>
+    <h1>EDUCATION</h1>
+      <ul>
+        <li>Bachelors of Arts from University of Central Florida in International Relations - May 2011</li>
+        <li>Engineer Basic Officer Leadership Course, Fort Leonard Wood, MO - October 2011</li>
+        <li>Training Plan Development Course, Fort Knox, KY - April 2015</li>
+        <li>Leadership Development Leadercast, Towson, MD - May 2015</li>
+      </ul>
+    <h1>AWARDS & CERTIFICATIONS</h1>
+      <ul>
+        <li>Bronze Star Medal for leadership in combat in southern Afghanistan</li>
+        <li>Maintaining active Secret security clearance</li>
+      </ul>
+</html>

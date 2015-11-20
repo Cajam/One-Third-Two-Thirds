@@ -1,0 +1,76 @@
+* {
+  font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
+}
+header {
+  text-align: center;
+  font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
+  text
+}
+body {
+  margin: 0 auto;
+  width: 70%;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #646D7E;
+  background-color: gray;
+  background: url("images/bgimage.jpeg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.page {
+  background: rgba(255, 255, 255, 0.75)
+}
+.words {
+  margin: 2% 1% 1% 5%;
+}
+.profpic {
+  border-radius: 100%;
+  border-style: solid;
+  border-width: 4px;
+  margin-top: 5%;
+}
+h1 {
+  font-size: 500%;
+  font-weight: bold;
+  margin: 3% 0 5% 0;
+}
+h2 {
+  font-size: 200%;
+}
+h3 {
+  font-size: 160%;
+  font-weight: bold;
+  margin: 5% 0 2% 0;
+}
+h4 {
+  font-size: 210%;
+  font-weight: bold;
+  font-style: italic;
+  margin: 5% 0 2% 0;
+}
+.codingskills {
+  font-size: 18px;
+}
+p {
+  font-size: 18px;
+}
+.sidepic {
+  height: 250px;
+  width: 250px;
+  border: 3px solid black;
+  border-radius: 2px;
+  margin: 1px;
+}
+.button {
+  width: 42px;
+  height: 42px;
+  margin: 0 20px 0 0;
+  display: inline;
+}
+.sidebar {
+  display: block;
+  float: right;
+  margin: 0 0 10px 15px;
+}
